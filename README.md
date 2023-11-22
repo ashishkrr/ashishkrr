@@ -1,5 +1,5 @@
 # 💫 About Me:
-WebApps and Mobile Apps<br>Java Python<br>Develop scalable System<br>Backend Technology<br>React, Flutter, React Native, No-SQL<br>
+WebApps and Mobile Apps<br>Java Python javascript<br>Develop scalable System<br>Backend Technology<br>React, Flutter, React Native, No-SQL, Nodejs, MongoDB<br>
 
 
 ## 🌐 Socials:
